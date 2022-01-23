@@ -1,0 +1,31 @@
+{
+  "name": "stunning-waffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/wwwroot/index.mjs",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./wwwroot/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvilWeasel/stunning-waffle.git"
+  },
+  "keywords": [
+    "stunning",
+    "waffle",
+    "vaccinations_are_good_and_necessary"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvilWeasel/stunning-waffle/issues"
+  },
+  "homepage": "https://github.com/EvilWeasel/stunning-waffle#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
